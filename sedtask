@@ -1,0 +1,6 @@
+Or, maybe you need to run  the quarterly reports after
+ the end of each quarter. the cron service has no option for 
+"the last day of the month," so instead you can use
+ the first day of the following month, as shown below.
+ (This assumes that the data needed for the reports 
+will be ready when the job is set to run.)

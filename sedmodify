@@ -1,0 +1,6 @@
+Or, maybe you need to run  THEMODIFIED quarterly reports after
+ THEMODIFIED end of each quarter. THEMODIFIED cron service has no option for 
+"THEMODIFIED last day of THEMODIFIED month," so instead you can use
+ THEMODIFIED first day of THEMODIFIED following month, as shown below.
+ (This assumes that THEMODIFIED data needed for THEMODIFIED reports 
+will be ready when THEMODIFIED job is set to run.)
